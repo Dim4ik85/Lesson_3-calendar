@@ -1,0 +1,19 @@
+body{
+    
+    width: 500px;
+    border: 3px solid black
+}
+
+.day{
+float: left;
+padding-top: 20px;
+width: 71px;
+height: 35px;
+}
+
+.current{
+    background-color: red;   
+}
+div{
+    text-align: center;
+}
